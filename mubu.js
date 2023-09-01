@@ -8,7 +8,7 @@
 
 [rewrite_local]
 
-^https:\/\/api2\.mubu\.com\/v3\/api\/user\/current_user url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mubu.js
+^https:\/\/api2\.mubu\.com\/v3\/api\/user\/current_user url script-response-body https://raw.githubusercontent.com/cmulittlechild/Crack/main/mubu.js
 
 [mitm] 
 
